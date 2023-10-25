@@ -1,4 +1,4 @@
- 22070123094
+ 22070123086
 Exp_21- Searching Algorithms
      i) Linear Search
 */
@@ -35,7 +35,7 @@ Element found at index 3
 #include <iostream>
 using namespace std;
 /* 
- 22070123094
+ 22070123086
 Exp_21- Searching Algorithms
      ii) Binary Search
 */
@@ -80,7 +80,7 @@ Element found at index 3
 #include <iostream>
 using namespace std;
 /* 
- 22070123094
+ 22070123086
 Exp-21
 Take input from user 
 */
